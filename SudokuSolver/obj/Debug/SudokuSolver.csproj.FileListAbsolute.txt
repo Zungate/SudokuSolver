@@ -1,0 +1,7 @@
+F:\ADS1\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+F:\ADS1\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+F:\ADS1\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+F:\ADS1\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+F:\ADS1\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+F:\ADS1\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+F:\ADS1\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
